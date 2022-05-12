@@ -26,10 +26,13 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": [
+            "styles": [ 
+              "PF_Sosa_Escalante/node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "PF_Sosa_Escalante/node_modules/bootstrap/dist/js/bootstrap.js",
+            ]
           },
           "configurations": {
             "production": {
