@@ -27,11 +27,11 @@
               "src/assets"
             ],
             "styles": [ 
-              "PF_Sosa_Escalante/node_modules/bootstrap/dist/css/bootstrap.css",
+              "./node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"
             ],
             "scripts": [
-              "PF_Sosa_Escalante/node_modules/bootstrap/dist/js/bootstrap.js",
+              "./node_modules/bootstrap/dist/js/bootstrap.js",
             ]
           },
           "configurations": {

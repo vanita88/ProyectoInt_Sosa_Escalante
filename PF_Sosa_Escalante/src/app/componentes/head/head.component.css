@@ -1,5 +1,6 @@
 div{
-    background-color: blueviolet;
+    background-color:rgba(0, 0, 0, 0.87);
+    box-shadow: 2px -2px 5px #999;
 }
 app-sociales{
     float: right;
